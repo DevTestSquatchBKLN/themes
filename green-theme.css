@@ -499,7 +499,7 @@ body
 }
 a,a:hover,a:link,a:visited
 {
-	color: #66bc51;
+	color: #26a69a;
 	text-decoration: none!important;
 }
 a:hover,a:hover:hover,a:link:hover,a:visited:hover
@@ -512,7 +512,7 @@ a:hover,a:hover:hover,a:link:hover,a:visited:hover
 }
 .task-icon-link[href='/']
 {
-	background-color: #66bc51;
+	background-color: #26a69a;
 	height: 40px;
 	left: 20px;
 	position: absolute;
@@ -526,7 +526,7 @@ a:hover,a:hover:hover,a:link:hover,a:visited:hover
 }
 #header
 {
-	background-color: #66bc51;
+	background-color: #26a69a;
 	box-shadow: 0 1px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
 	height: 64px;
 	left: 0;
@@ -567,7 +567,7 @@ a:hover,a:hover:hover,a:link:hover,a:visited:hover
 #breadcrumbs LI:hover,A.breadcrumbBarAnchor.mouseIsOverMenuSelector
 {
 	background-color: transparent!important;
-	color: #66bc51!important;
+	color: #26a69a!important;
 }
 #breadcrumbs
 {
@@ -657,7 +657,7 @@ table.progress-bar
 }
 .yui-button.primary button
 {
-	background-color: #66bc51!important;
+	background-color: #26a69a!important;
 	color: #fff!important;
 }
 .yui-button+.yui-button
@@ -709,7 +709,7 @@ pre a
 }
 .yuimenuitem-selected
 {
-	background-color: #66bc51!important;
+	background-color: #26a69a!important;
 }
 .yuimenuitem-selected>a
 {
@@ -720,5 +720,3 @@ pre a
 	filter: brightness(10000);
 	webkit-filter: brightness(10000);
 }
-
-
